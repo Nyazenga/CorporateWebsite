@@ -1,5 +1,7 @@
 # CorporateWebsite
 
+![Project Logo](./logo.png)
+
 CorporateWebsite is a web application designed for Property Book Job Assessment.
 
 ## Table of Contents
@@ -9,7 +11,6 @@ CorporateWebsite is a web application designed for Property Book Job Assessment.
 4. [Creating a User](#creating-a-user)
 5. [Hosted Solution](#hosted-solution)
 6. [Default User Credentials](#default-user-credentials)
-7. [License](#license)
 
 ## Installation
 
@@ -89,7 +90,12 @@ Follow these steps to set up the project on your local machine:
 An already hosted solution is available at:
 
 - **Website:** [Corporate Website](https://corporate-website.tronix-inc.co.zw/)
+
+![Admin Panel Screenshot](./corporate-website.png)
+
 - **Admin Panel:** [Dashboard](https://corporate-website.tronix-inc.co.zw/dashboard)
+
+![Admin Panel Screenshot](./admin-panel-screenshot.png)
 
 ## Default User Credentials
 
@@ -97,3 +103,4 @@ For development purposes, a default user is seeded with the following credential
 
 - **Email:** nyazengamd@gmail.com
 - **Password:** 12345678
+
